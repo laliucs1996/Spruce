@@ -1,0 +1,29 @@
+.card {
+	display:inline-block;
+}
+
+#rating-card {
+	background-color:#F0E68C;
+}
+
+#rating {
+	font-size:12px;
+}
+
+#critic-consensus {
+	font-size:10px;
+}
+
+#review-box {
+	width:23rem;
+	height:5rem;
+}
+
+#movie-info-card {
+	max-width:45rem;
+}
+
+#video-card {
+	max-width:50rem;
+}
+
